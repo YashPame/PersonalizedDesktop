@@ -86,6 +86,6 @@ ApplicationsBottom = [["Images\Calculator.png","start calc"],
                       ["Images\Blank.png",""]]
 
 NewsHeadlines = ["Images\\News.png",
-                 "c3c1f055e33d49df959a0d996b837e89", #Api Key
+                 "API KEY HERE", #Api Key
                  "https://newsapi.org/v2/top-headlines?country=in&apiKey=" #URL
                 ]
